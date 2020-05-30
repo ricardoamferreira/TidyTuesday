@@ -1,1 +1,1 @@
-![](Cocktails/final_plot.png)
+![] (Cocktails/final_plot.png)
