@@ -5,3 +5,7 @@ Code and figures for my [\#TidyTuesday](https://github.com/rfordatascience/tidyt
 ### Beach Volleyball
 
 ![](Beach_Volleyball/img1.png)
+
+### Cocktails
+
+![](Cocktails/final_plot.png)
